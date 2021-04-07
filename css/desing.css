@@ -1,0 +1,80 @@
+/*SELECTOR*/
+*{  
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 1000px;
+    margin: auto;
+}
+.section{
+    width: 1000px;
+    margin: auto;
+}
+.Titulo{
+    color: red;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+    background-color: yellow;
+}
+.parrafo{
+    text-align: justify;
+    font-family: inherit;
+}
+.fila_1{
+    text-align: center;
+    background-color: paleturquoise;
+    color: navy;
+    padding: 15px 0px 0px 0px;
+    font-size: 20px;
+}
+.Subtitulo_1{
+    font-size: 20px;
+    color: black;
+    font-family: fantasy;
+    text-align: center;
+    background-color: yellow;
+}
+.Subtitulo_2{
+    font-size: 20px;
+    color: blue;
+    font-family: fantasy;
+    text-align: center;
+    background-color: yellow;
+}
+.Subtitulo_3{
+    font-size: 20px;
+    color: darkgreen;
+    font-family: fantasy;
+    text-align: center;
+    background-color: yellow;
+}
+.Subtitulo_4{
+    font-size: 20px;
+    color: darkmagenta;
+    font-family: fantasy;
+    text-align: center;
+    background-color: yellow;
+}
+.tabla{
+    margin: 15px 0px 15px 0px;
+}
+.Titulo1{
+    font-size: 40px;
+    color: lavender;
+    font-family: fantasy;
+    text-align: center;
+    background-color: black;
+}
+.Nombre{
+    font-size: 30px;
+    color: midnightblue;
+    font-family: fantasy;
+    text-align: center;
+    background-color: greenyellow;
+}
+
+
+
